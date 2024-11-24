@@ -2,53 +2,6 @@
 
 regions = [
     {
-        "name": "Menu",
-        "exits": [
-            {
-                "logic": [
-                    {
-                        "item_requirements": [
-                            "Powerup_ProgressiveSlide_2",
-                            "Powerup_AirKick_3",
-                            "Trick_Movement_Advanced"
-                        ],
-                        "location_requirements": [],
-                        "region_requirements": [],
-                        "state_modifiers": []
-                    },
-                    {
-                        "item_requirements": [
-                            "Powerup_ClingPart_2",
-                            "Powerup_AirKick_3",
-                            "Powerup_Sunsetter",
-                            "Trick_OneWall_Advanced",
-                            "Trick_Movement_Advanced"
-                        ],
-                        "location_requirements": [],
-                        "region_requirements": [],
-                        "state_modifiers": []
-                    }
-                ],
-                "target": "CsTheatreEntrance"
-            },
-            {
-                "logic": [
-                    {
-                        "item_requirements": [
-                            "Lock::Ending"
-                        ],
-                        "location_requirements": [],
-                        "region_requirements": [],
-                        "state_modifiers": []
-                    }
-                ],
-                "target": "FinalBoss"
-            }
-        ],
-        "locations": [],
-        "transitions": []
-    },
-    {
         "name": "EarlyPrison",
         "exits": [
             {
@@ -1255,7 +1208,8 @@ regions = [
                     {
                         "item_requirements": [
                             "Powerup_ClingPart_2",
-                            "Powerup_AirKick_3"
+                            "Powerup_AirKick_3",
+                            "Lock::Ending"
                         ],
                         "location_requirements": [],
                         "region_requirements": [],
@@ -1265,7 +1219,8 @@ regions = [
                         "item_requirements": [
                             "Powerup_ClingPart_2",
                             "Powerup_AirKick_1",
-                            "Powerup_Sunsetter"
+                            "Powerup_Sunsetter",
+                            "Lock::Ending"
                         ],
                         "location_requirements": [],
                         "region_requirements": [],
@@ -1835,7 +1790,30 @@ regions = [
         "name": "ThCastleEntryMain",
         "exits": [
             {
-                "logic": [],
+                "logic": [
+                    {
+                        "item_requirements": [
+                            "Powerup_AirKick_3",
+                            "Powerup_ProgressiveSlide_2",
+                            "Trick_Movement_Advanced"
+                        ],
+                        "location_requirements": [],
+                        "region_requirements": [],
+                        "state_modifiers": []
+                    },
+                    {
+                        "item_requirements": [
+                            "Powerup_AirKick_3",
+                            "Powerup_ClingPart_2",
+                            "Powerup_Sunsetter",
+                            "Trick_OneWall_Advanced",
+                            "Trick_Movement_Advanced"
+                        ],
+                        "location_requirements": [],
+                        "region_requirements": [],
+                        "state_modifiers": []
+                    }
+                ],
                 "target": "CsTheatreEntrance"
             },
             {
