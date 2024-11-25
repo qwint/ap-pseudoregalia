@@ -121,6 +121,11 @@ class PseudoWorld(RandomizerCoreWorld, World):
     }
 
 # black box methods
+    def get_region_list(self) -> List[str]:
+        ret = super().get_region_list()
+        ret.append("Menu")
+        return ret
+
     def get_connections(self) -> "List[Tuple(str, str, Optional[Any])]":
         ret = super().get_connections()
         print(f"Connecting menu to {spawns[self.options.spawn.current_region]}")
