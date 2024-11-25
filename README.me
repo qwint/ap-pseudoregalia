@@ -1,0 +1,13 @@
+This repo uses the upstream Pseudoregalia repo at https://github.com/pseudoregalia-modding/rando to grab the upstream metada and translate it to AP format
+some parts sourced from https://github.com/pseudoregalia-modding/pseudoregalia-archipelago/tree/main/AP_Randomizer/apworld as the previous existing apworld
+
+it translates:
+* upstream "Checks" to ap "Locations"
+* upstream "Locations" to ap "Regions"
+* upstream "Spawns" to ap start locations
+
+to update: 
+* run `python pseudo_preprocessor.py` to create the requisite StringWorldDefinition.json
+* then run the extractor - https://github.com/ArchipelagoMW-HollowKnight/APHKLogicExtractor
+  * `dotnet run --project path\to\APHKLogicExtractor --Input .\ExtractorConfig.json --Jobs ExtractRegions --Output .\data`
+which will update the output files in the `data` subfolder which are read directly from the apworld
