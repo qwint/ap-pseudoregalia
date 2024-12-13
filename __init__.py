@@ -199,18 +199,23 @@ class PseudoWorld(RandomizerCoreWorld, World):
     def set_rule(self, spot, rule):
         # use spot.set_rule instead of access_rule because our Location class defines a custom access_rule
         if rule is not None and spot.name not in (
-                # vanilla locations usually require themselves to exit 
-                "where dream breaker normally is",
-                "where slide normally is",
-                # "where memento normally is",
-                # "where indignation normally is",
-                # "where sun greaves normally is",
-                # "where strikebreak normally is",
-                # "where sunsetter normally is",
-                # "where solar wind normally is",
-                "where ascendant light normally is",
-                # "where cling gem normally is",
-                # "where soul cutter normally is",
+                # # vanilla locations usually require themselves to exit 
+                # "where dream breaker normally is",
+                # "where slide normally is",
+                # # "where memento normally is",
+                # # "where indignation normally is",
+                # # "where sun greaves normally is",
+                # # "where strikebreak normally is",
+                # # "where sunsetter normally is",
+                # # "where solar wind normally is",
+                # "where ascendant light normally is",
+                # # "where cling gem normally is",
+                # # "where soul cutter normally is",
+                # ):
+                "Dilapidated Dungeon - Dream Breaker",
+                "Dilapidated Dungeon - Slide",
+                "The Underbelly - Ascendant Light",
+                "Sansa Keep - Sunsetter",  # TODO double check
                 ):
             spot.set_rule(rule)
         # else leave it as-is

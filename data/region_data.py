@@ -49,9 +49,9 @@ regions = [
         ],
         "locations": [
             "the goatling who fell out his cage",
-            "the time trial in the starting room",
-            "where dream breaker normally is",
-            "where the first health piece is"
+            "Dilapidated Dungeon - Time Trial",
+            "Dilapidated Dungeon - Dream Breaker",
+            "Dilapidated Dungeon - Alcove Near Mirror"
         ],
         "transitions": []
     },
@@ -137,8 +137,8 @@ regions = [
             }
         ],
         "locations": [
-            "where slide normally is",
-            "black hole parkour off the beaten path"
+            "Dilapidated Dungeon - Slide",
+            "Dilapidated Dungeon - Dark Orbs"
         ],
         "transitions": []
     },
@@ -194,9 +194,9 @@ regions = [
             }
         ],
         "locations": [
-            "up in the rafters",
-            "missable high walled room",
-            "strong eyes' lair"
+            "Dilapidated Dungeon - Rafters",
+            "Dilapidated Dungeon - Past Poles",
+            "Dilapidated Dungeon - Strong Eyes"
         ],
         "transitions": []
     },
@@ -444,23 +444,23 @@ regions = [
         ],
         "locations": [
             "the goatling lamenting the skill issue of players who need a map",
-            "where memento normally is",
+            "Castle Sansa - Memento",
             "the goatling who wants to lick the checkpoint",
             "the third chair next to the goatling who wants to lick the checkpoint",
             "the second chair next to the goatling who wants to lick the checkpoint",
             "the first chair next to the goatling who wants to lick the checkpoint",
-            "where indignation normally is",
-            "chillin' on a ledge by the window",
+            "Castle Sansa - Indignation",
+            "Castle Sansa - Platform In Main Halls",
             "the goatling who wanted to see the armour display",
-            "the time trial behind a locked door",
-            "tucked deep in a corner in the bouncer room",
-            "the extremely slappable wheel guy room",
-            "through the wallkick tunnel",
-            "on the ledge above the bailey entrance",
+            "Castle Sansa - Time Trial",
+            "Castle Sansa - Corner Corridor",
+            "Castle Sansa - Wheel Crawlers",
+            "Castle Sansa - Tall Room Near Wheel Crawlers",
+            "Castle Sansa - Balcony",
             "the goatling in the gazebo",
             "the chair in the gazebo",
-            "next to a bouncer in the massive room",
-            "in the room with two other ones to each side"
+            "Castle Sansa - Floater In Courtyard",
+            "Castle Sansa - High Climb From Courtyard"
         ],
         "transitions": []
     },
@@ -518,7 +518,7 @@ regions = [
             }
         ],
         "locations": [
-            "the old softlock room",
+            "Castle Sansa - Alcove Near Scythe Corridor",
             "the goatling about to jump into the haze"
         ],
         "transitions": []
@@ -557,7 +557,7 @@ regions = [
             }
         ],
         "locations": [
-            "cool moon room"
+            "Castle Sansa - Near Theatre Front"
         ],
         "transitions": []
     },
@@ -574,7 +574,7 @@ regions = [
             }
         ],
         "locations": [
-            "in the pit next to the dungeon entrance",
+            "Castle Sansa - Alcove Near Dungeon",
             "the goatling that calls you bubble girl"
         ],
         "transitions": []
@@ -642,12 +642,12 @@ regions = [
         ],
         "locations": [
             "the chair at the entrance",
-            "the time trial amidst the books",
+            "Listless Library - Time Trial",
             "the note next to the egg nest",
             "the chair next to the egg nest",
-            "in the buttress room",
-            "in the hay behind the locked door",
-            "tucked deep behind the locked door"
+            "Listless Library - Upper Back",
+            "Listless Library - Locked Door Across",
+            "Listless Library - Locked Door Left"
         ],
         "transitions": []
     },
@@ -697,7 +697,7 @@ regions = [
             }
         ],
         "locations": [
-            "where sun greaves normally is",
+            "Listless Library - Sun Greaves",
             "the chair after the normal sun greaves location"
         ],
         "transitions": []
@@ -826,13 +826,13 @@ regions = [
         ],
         "locations": [
             "the goatling sad about the lack of furniture",
-            "where strikebreak normally is",
-            "where sunsetter normally is",
-            "in an alcove next to the locked door",
-            "in the room with a lever on each side",
-            "tucked near the theatre entrance",
-            "at the end of the parkour",
-            "the time trial at the end of the parkour",
+            "Sansa Keep - Strikebreak",
+            "Sansa Keep - Sunsetter",
+            "Sansa Keep - Alcove Near Locked Door",
+            "Sansa Keep - Levers Room",
+            "Sansa Keep - Near Theatre",
+            "Sansa Keep - Lonely Throne",
+            "Sansa Keep - Time Trial",
             "the chair in the middle of the parkour"
         ],
         "transitions": []
@@ -933,12 +933,12 @@ regions = [
         ],
         "locations": [
             "the goatling who's hiding",
-            "in the building you slide into",
-            "guarded by the hand and soldier",
-            "where solar wind normally is",
-            "in the tower in the middle",
-            "under the cheese bell",
-            "the third locked up time trial"
+            "Empty Bailey - Inside Building",
+            "Empty Bailey - Guarded Hand",
+            "Empty Bailey - Solar Wind",
+            "Empty Bailey - Center Steeple",
+            "Empty Bailey - Cheese Bell",
+            "Empty Bailey - Time Trial"
         ],
         "transitions": []
     },
@@ -978,8 +978,8 @@ regions = [
             }
         ],
         "locations": [
-            "near the entrance from sansa keep",
-            "the soul cutter lever room"
+            "The Underbelly - Rafters Near Keep",
+            "The Underbelly - Surrounded By Holes"
         ],
         "transitions": []
     },
@@ -987,8 +987,8 @@ regions = [
         "name": "VAscendantLight",
         "exits": [],
         "locations": [
-            "where ascendant light normally is",
-            "in an alcove behind some pillars"
+            "The Underbelly - Ascendant Light",
+            "The Underbelly - Alcove Near Light"
         ],
         "transitions": []
     },
@@ -1078,10 +1078,10 @@ regions = [
             }
         ],
         "locations": [
-            "on a missable ledge in the centre",
+            "The Underbelly - Main Room",
             "the note on a high ledge in the big room",
-            "black hole parkour behind strikebreak wall",
-            "the second locked up time trial"
+            "The Underbelly - Strikebreak Wall",
+            "The Underbelly - Time Trial"
         ],
         "transitions": []
     },
@@ -1127,7 +1127,7 @@ regions = [
             }
         ],
         "locations": [
-            "behind the second locked door",
+            "The Underbelly - Locked Door",
             "the note behind the locked door"
         ],
         "transitions": []
@@ -1196,7 +1196,7 @@ regions = [
         ],
         "locations": [
             "the note near the empty bailey entrance",
-            "on top of the big building"
+            "The Underbelly - Building Near Little Guy"
         ],
         "transitions": []
     },
@@ -1270,9 +1270,9 @@ regions = [
             }
         ],
         "locations": [
-            "where cling gem normally is",
-            "atop the tower",
-            "the time trial at the tower entrance"
+            "Tower Remains - Cling Gem",
+            "Tower Remains - Atop The Tower",
+            "Tower Remains - Time Trial"
         ],
         "transitions": []
     },
@@ -1371,8 +1371,8 @@ regions = [
             }
         ],
         "locations": [
-            "on a beam in the corner",
-            "the first locked up time trial"
+            "Twilight Theatre - Corner Beam",
+            "Twilight Theatre - Time Trial"
         ],
         "transitions": []
     },
@@ -1559,14 +1559,14 @@ regions = [
             }
         ],
         "locations": [
-            "hiding amid the boxes",
+            "Twilight Theatre - Murderous Goat",
             "the goatling that will kill again",
             "the chair near the courtyard",
             "the chair in the soul cutter zone",
-            "behind three maximum security cages",
-            "where soul cutter normally is",
-            "in the back on a pillar",
-            "behind the first locked door"
+            "Twilight Theatre - Center Stage",
+            "Twilight Theatre - Soul Cutter",
+            "Twilight Theatre - Back Of Auditorium",
+            "Twilight Theatre - Locked Door"
         ],
         "transitions": []
     },
@@ -2228,7 +2228,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the time trial in the starting room",
+        "name": "Dilapidated Dungeon - Time Trial",
         "logic": [
             {
                 "item_requirements": [
@@ -2246,7 +2246,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where dream breaker normally is",
+        "name": "Dilapidated Dungeon - Dream Breaker",
         "logic": [
             {
                 "item_requirements": [
@@ -2290,7 +2290,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where the first health piece is",
+        "name": "Dilapidated Dungeon - Alcove Near Mirror",
         "logic": [
             {
                 "item_requirements": [
@@ -2346,7 +2346,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where slide normally is",
+        "name": "Dilapidated Dungeon - Slide",
         "logic": [
             {
                 "item_requirements": [
@@ -2403,7 +2403,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "black hole parkour off the beaten path",
+        "name": "Dilapidated Dungeon - Dark Orbs",
         "logic": [
             {
                 "item_requirements": [
@@ -2437,7 +2437,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "up in the rafters",
+        "name": "Dilapidated Dungeon - Rafters",
         "logic": [
             {
                 "item_requirements": [
@@ -2470,7 +2470,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "missable high walled room",
+        "name": "Dilapidated Dungeon - Past Poles",
         "logic": [
             {
                 "item_requirements": [
@@ -2514,7 +2514,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "strong eyes' lair",
+        "name": "Dilapidated Dungeon - Strong Eyes",
         "logic": [
             {
                 "item_requirements": [
@@ -2533,7 +2533,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where memento normally is",
+        "name": "Castle Sansa - Memento",
         "logic": [],
         "is_event": False
     },
@@ -2558,12 +2558,12 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where indignation normally is",
+        "name": "Castle Sansa - Indignation",
         "logic": [],
         "is_event": False
     },
     {
-        "name": "chillin' on a ledge by the window",
+        "name": "Castle Sansa - Platform In Main Halls",
         "logic": [
             {
                 "item_requirements": [
@@ -2608,7 +2608,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the time trial behind a locked door",
+        "name": "Castle Sansa - Time Trial",
         "logic": [
             {
                 "item_requirements": [
@@ -2622,7 +2622,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "tucked deep in a corner in the bouncer room",
+        "name": "Castle Sansa - Corner Corridor",
         "logic": [
             {
                 "item_requirements": [
@@ -2646,7 +2646,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the extremely slappable wheel guy room",
+        "name": "Castle Sansa - Wheel Crawlers",
         "logic": [
             {
                 "item_requirements": [
@@ -2677,7 +2677,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the old softlock room",
+        "name": "Castle Sansa - Alcove Near Scythe Corridor",
         "logic": [
             {
                 "item_requirements": [
@@ -2748,7 +2748,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "cool moon room",
+        "name": "Castle Sansa - Near Theatre Front",
         "logic": [
             {
                 "item_requirements": [
@@ -2804,7 +2804,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "through the wallkick tunnel",
+        "name": "Castle Sansa - Tall Room Near Wheel Crawlers",
         "logic": [
             {
                 "item_requirements": [
@@ -2967,7 +2967,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "in the pit next to the dungeon entrance",
+        "name": "Castle Sansa - Alcove Near Dungeon",
         "logic": [
             {
                 "item_requirements": [
@@ -3011,7 +3011,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "on the ledge above the bailey entrance",
+        "name": "Castle Sansa - Balcony",
         "logic": [
             {
                 "item_requirements": [
@@ -3054,7 +3054,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "next to a bouncer in the massive room",
+        "name": "Castle Sansa - Floater In Courtyard",
         "logic": [
             {
                 "item_requirements": [
@@ -3126,7 +3126,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "in the room with two other ones to each side",
+        "name": "Castle Sansa - High Climb From Courtyard",
         "logic": [
             {
                 "item_requirements": [
@@ -3190,7 +3190,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the time trial amidst the books",
+        "name": "Listless Library - Time Trial",
         "logic": [
             {
                 "item_requirements": [
@@ -3291,7 +3291,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where sun greaves normally is",
+        "name": "Listless Library - Sun Greaves",
         "logic": [
             {
                 "item_requirements": [
@@ -3379,7 +3379,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "in the buttress room",
+        "name": "Listless Library - Upper Back",
         "logic": [
             {
                 "item_requirements": [
@@ -3401,7 +3401,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "in the hay behind the locked door",
+        "name": "Listless Library - Locked Door Across",
         "logic": [
             {
                 "item_requirements": [
@@ -3435,7 +3435,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "tucked deep behind the locked door",
+        "name": "Listless Library - Locked Door Left",
         "logic": [
             {
                 "item_requirements": [
@@ -3484,7 +3484,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where strikebreak normally is",
+        "name": "Sansa Keep - Strikebreak",
         "logic": [
             {
                 "item_requirements": [
@@ -3518,7 +3518,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where sunsetter normally is",
+        "name": "Sansa Keep - Sunsetter",
         "logic": [
             {
                 "item_requirements": [
@@ -3553,7 +3553,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "in an alcove next to the locked door",
+        "name": "Sansa Keep - Alcove Near Locked Door",
         "logic": [
             {
                 "item_requirements": [
@@ -3629,7 +3629,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "in the room with a lever on each side",
+        "name": "Sansa Keep - Levers Room",
         "logic": [
             {
                 "item_requirements": [
@@ -3652,7 +3652,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "tucked near the theatre entrance",
+        "name": "Sansa Keep - Near Theatre",
         "logic": [
             {
                 "item_requirements": [
@@ -3682,7 +3682,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "at the end of the parkour",
+        "name": "Sansa Keep - Lonely Throne",
         "logic": [
             {
                 "item_requirements": [
@@ -3731,7 +3731,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the time trial at the end of the parkour",
+        "name": "Sansa Keep - Time Trial",
         "logic": [
             {
                 "item_requirements": [
@@ -3813,7 +3813,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "in the building you slide into",
+        "name": "Empty Bailey - Inside Building",
         "logic": [
             {
                 "item_requirements": [
@@ -3827,7 +3827,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "guarded by the hand and soldier",
+        "name": "Empty Bailey - Guarded Hand",
         "logic": [
             {
                 "item_requirements": [
@@ -3875,7 +3875,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where solar wind normally is",
+        "name": "Empty Bailey - Solar Wind",
         "logic": [
             {
                 "item_requirements": [
@@ -3925,7 +3925,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "in the tower in the middle",
+        "name": "Empty Bailey - Center Steeple",
         "logic": [
             {
                 "item_requirements": [
@@ -3966,7 +3966,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "under the cheese bell",
+        "name": "Empty Bailey - Cheese Bell",
         "logic": [
             {
                 "item_requirements": [
@@ -4012,7 +4012,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the third locked up time trial",
+        "name": "Empty Bailey - Time Trial",
         "logic": [
             {
                 "item_requirements": [
@@ -4030,7 +4030,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "near the entrance from sansa keep",
+        "name": "The Underbelly - Rafters Near Keep",
         "logic": [
             {
                 "item_requirements": [
@@ -4053,7 +4053,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the soul cutter lever room",
+        "name": "The Underbelly - Surrounded By Holes",
         "logic": [
             {
                 "item_requirements": [
@@ -4092,7 +4092,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where ascendant light normally is",
+        "name": "The Underbelly - Ascendant Light",
         "logic": [
             {
                 "item_requirements": [
@@ -4115,7 +4115,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "in an alcove behind some pillars",
+        "name": "The Underbelly - Alcove Near Light",
         "logic": [
             {
                 "item_requirements": [
@@ -4138,7 +4138,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "on a missable ledge in the centre",
+        "name": "The Underbelly - Main Room",
         "logic": [
             {
                 "item_requirements": [
@@ -4196,7 +4196,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "black hole parkour behind strikebreak wall",
+        "name": "The Underbelly - Strikebreak Wall",
         "logic": [
             {
                 "item_requirements": [
@@ -4242,7 +4242,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the second locked up time trial",
+        "name": "The Underbelly - Time Trial",
         "logic": [
             {
                 "item_requirements": [
@@ -4260,7 +4260,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "behind the second locked door",
+        "name": "The Underbelly - Locked Door",
         "logic": [
             {
                 "item_requirements": [
@@ -4353,7 +4353,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "on top of the big building",
+        "name": "The Underbelly - Building Near Little Guy",
         "logic": [
             {
                 "item_requirements": [
@@ -4383,7 +4383,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where cling gem normally is",
+        "name": "Tower Remains - Cling Gem",
         "logic": [
             {
                 "item_requirements": [
@@ -4415,7 +4415,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "atop the tower",
+        "name": "Tower Remains - Atop The Tower",
         "logic": [
             {
                 "item_requirements": [
@@ -4451,7 +4451,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the time trial at the tower entrance",
+        "name": "Tower Remains - Time Trial",
         "logic": [
             {
                 "item_requirements": [
@@ -4469,7 +4469,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "on a beam in the corner",
+        "name": "Twilight Theatre - Corner Beam",
         "logic": [
             {
                 "item_requirements": [
@@ -4511,7 +4511,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "the first locked up time trial",
+        "name": "Twilight Theatre - Time Trial",
         "logic": [
             {
                 "item_requirements": [
@@ -4569,7 +4569,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "hiding amid the boxes",
+        "name": "Twilight Theatre - Murderous Goat",
         "logic": [],
         "is_event": False
     },
@@ -4674,7 +4674,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "behind three maximum security cages",
+        "name": "Twilight Theatre - Center Stage",
         "logic": [
             {
                 "item_requirements": [
@@ -4719,7 +4719,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "where soul cutter normally is",
+        "name": "Twilight Theatre - Soul Cutter",
         "logic": [
             {
                 "item_requirements": [
@@ -4777,7 +4777,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "in the back on a pillar",
+        "name": "Twilight Theatre - Back Of Auditorium",
         "logic": [
             {
                 "item_requirements": [
@@ -4799,7 +4799,7 @@ locations = [
         "is_event": False
     },
     {
-        "name": "behind the first locked door",
+        "name": "Twilight Theatre - Locked Door",
         "logic": [
             {
                 "item_requirements": [
